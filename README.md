@@ -1,6 +1,6 @@
-# Cookie Cats A/B Test Analysis (Excel)
+# Cookie Cats A/B Test Analysis (Excel and SQL)
 
-An analysis of a public mobile game A/B test: did moving the first gate in Cookie Cats from level 30 to level 40 change player retention? Built in Microsoft Excel for Mac, with a proposed follow-up experiment plan.
+Built in Microsoft Excel for Mac, checked in SQL, with a proposed follow-up experiment plan.
 
 ## The question
 
