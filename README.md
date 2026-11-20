@@ -77,7 +77,7 @@ The group split is slightly uneven and unlikely to be pure chance. The cause can
 
 ## Proposed follow-up experiment
 
-A one-page plan for a follow-up test (gate at level 25 vs. level 30) is included in `experiment_plan.pdf`. It covers the hypothesis, metrics, sample size (about 98,600 players per group for a 0.5 percentage point effect), and a decision rule set in advance. **This experiment is proposed and has not been run.**
+A short plan for a follow-up test (gate at level 25 vs. level 30) is included in `experiment_plan.pdf`. It covers the hypothesis, metrics, sample size (about 98,600 players per group for a 0.5 percentage point effect), and a decision rule set in advance. **This experiment is proposed and has not been run.**
 
 ## Files
 
